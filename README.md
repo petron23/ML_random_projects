@@ -1,5 +1,4 @@
 # ML_random_projects
 Random ML tutorial projects
-
-Mostly my earlier ML projects.
+Some tutorials, some playing around with models
  
